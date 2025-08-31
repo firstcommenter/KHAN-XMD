@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "𝗧𝗛𝗘 𝗖𝗨𝗥𝗟𝗬𝗛𝗔𝗜𝗥 𝗚𝗨𝗬 "
     }, 
       
     "PREFIX": {
@@ -85,27 +85,27 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "𝗧𝗛𝗘 𝗖𝗨𝗥𝗟𝗬𝗛𝗔𝗜𝗥 𝗚𝗨𝗬 "
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923427582273"
+      "value": "2349132095836"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "𝗧𝗛𝗘 𝗖𝗨𝗥𝗟𝗬𝗛𝗔𝗜𝗥 𝗚𝗨𝗬 "
 
       }, 
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "true"
+      "value": "false"
       
     },
     
